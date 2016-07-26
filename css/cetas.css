@@ -17,7 +17,7 @@ vertical-align: center;
     font-size: 1.3vw;
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    z-index: -1;
+    z-index: 1;
 vertical-align: center;
 }
 #footer-middle {

@@ -36,35 +36,35 @@ vertical-align: bottom;
   width: 50%;
   height:1.5%;
   font-family: 'PT Sans', sans-serif;
-  font-size: 1vw;
+  font-size: 30%;
   vertical-align: bottom;
 }
 /* Slide 1 CSS */
 #tag1{
 font-family: 'Open Sans',sans-serif;
-font-size: 3vw;
+font-size: 100%;
 }
 #tag2{
 font-family: 'PT Sans',sans-serif;
-font-size: 1.5vw;
+font-size: 50%;
 }
 /* All Slide */
 #head{
 font-family: 'Open Sans',sans-serif;
-font-size: 4vw;
+font-size: 200%;
 }
 #pbold{
 font-family: 'Oswald', sans-serif;
-font-size: 3vw;
+font-size: 100%;
 font-weight:bold;
 }
 #pnormal{
 font-family: 'PT Sans',sans-serif;
-font-size:2vw;
+font-size:75%;
 }
 #pnormal1{
 font-family: 'Oswald',sans-serif;
-font-size:2.5vw;
+font-size:100%;
 }
 
 
@@ -72,7 +72,7 @@ font-size:2.5vw;
   width:25%;
   left:0%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -80,7 +80,7 @@ font-size:2.5vw;
   width: 25%;
   left:25%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -88,7 +88,7 @@ font-size:2.5vw;
   width: 25%;
   left:50%;
   font-family:'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -96,7 +96,7 @@ font-size:2.5vw;
   width: 25%;
   left:75%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -104,7 +104,7 @@ font-size:2.5vw;
   width: 33%;
   left:0%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -112,7 +112,7 @@ font-size:2.5vw;
   width: 33%;
   left:33%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -120,7 +120,7 @@ font-size:2.5vw;
   width: 33%;
   left:66%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -129,7 +129,7 @@ font-size:2.5vw;
   width: 50%;
   left:0%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
@@ -137,23 +137,23 @@ font-size:2.5vw;
   width: 50%;
   left:50%;
   font-family: 'Oswald', sans-serif;
-  font-size: 2vw;
+  font-size: 100%;
   font-weight: bold;
   position: absolute;
 }
 
 #vbox-head{
 font-family: 'PT Sans',sans-serif;
-font-size: 4vw;
+font-size: 200%;
 font-weight: bold;
 }
 #vbox-p{
 font-family: 'PT Sans',sans-serif;
-font-size: 2vw;
+font-size: 100%;
 font-weight: lighter;
 }
 #back{
 font-family: 'PT Sans',sans-serif;
-font-size: 1vw;
+font-size: 50%;
 font-weight: bold;
 }

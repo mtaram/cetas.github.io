@@ -3,16 +3,16 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
 #header-left {
     position: absolute;
-    top: .5%;
-    left: .5%;
+    top: 2.5%;
+    left: 2.5%;
     width: 50%;
     height:5%;
     vertical-align: center;
 }
 #header-right {
     position: absolute;
-    top: 2%;
-    right: 1.5%;
+    top: 4%;
+    right: 2.5%;
     height:4.5%;
     font-size: 1.5vw;
     font-family: 'PT Sans', sans-serif;
@@ -52,7 +52,7 @@
 /* All Slide */
 #head{
     font-family: 'Open Sans',sans-serif;
-    font-size: 200%;
+    font-size: 150%;
 }
 #pbold{
     font-family: 'Oswald', sans-serif;
@@ -71,7 +71,7 @@
     width:25%;
     left:0%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -79,7 +79,7 @@
     width: 25%;
     left:25%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -87,7 +87,7 @@
     width: 25%;
     left:50%;
     font-family:'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -95,7 +95,7 @@
     width: 25%;
     left:75%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -103,7 +103,7 @@
     width: 33%;
     left:0%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -111,7 +111,7 @@
     width: 33%;
     left:33%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -119,7 +119,7 @@
     width: 33%;
     left:66%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -128,7 +128,7 @@
     width: 50%;
     left:0%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }
@@ -136,7 +136,7 @@
     width: 50%;
     left:50%;
     font-family: 'Oswald', sans-serif;
-    font-size: 100%;
+    font-size: 75%;
     font-weight: bold;
     position: absolute;
 }

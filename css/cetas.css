@@ -11,10 +11,10 @@ vertical-align: center;
 }
 #header-right {
     position: absolute;
-    top: .5%;
+    top: 2%;
     right: 1.5%;
     height:4.5%;
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     font-family: 'PT Sans', sans-serif;
     font-weight: lighter;
     z-index: 1;
@@ -22,7 +22,7 @@ vertical-align: center;
 }
 #footer-middle {
     position: absolute;
-    bottom: 2%;
+    bottom: 3%;
     left: 25%;
     width: 50%;
     height:4.5%;
@@ -31,7 +31,7 @@ vertical-align: bottom;
 }
 #footer-middle-bottom {
   position: absolute;
-  bottom: 1%;
+  bottom: 2%;
   left: 25%;
   width: 50%;
   height:1.5%;

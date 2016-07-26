@@ -150,6 +150,12 @@
     font-size: 100%;
     font-weight: lighter;
 }
+#vbox-p1{
+    font-family: 'PT Sans',sans-serif;
+    font-size: 75%;
+    font-weight: lighter;
+}
+
 #back{
     font-family: 'PT Sans',sans-serif;
     font-size: 50%;

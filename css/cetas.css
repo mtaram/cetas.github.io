@@ -15,10 +15,10 @@ vertical-align: center;
     right: 1.5%;
     height:4.5%;
     font-size: 1.3vw;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-weight: lighter;
     z-index: -2;
-vertical-align: center;
+    vertical-align: center;
 }
 #footer-middle {
     position: absolute;

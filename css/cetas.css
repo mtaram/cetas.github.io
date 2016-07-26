@@ -27,6 +27,7 @@
     width: 50%;
     height:4.5%;
     font-size: 1.3vw;
+    z-index: 1;
     vertical-align: bottom;
 }
 #footer-middle-bottom {
